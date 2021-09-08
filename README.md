@@ -1,1 +1,1 @@
-# vivaldi-macos-buttons
+<img src="./.github/poster.png">
