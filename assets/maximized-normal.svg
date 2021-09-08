@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 50 50"
+   version="1.2"
+   id="svg16"
+   sodipodi:docname="maximized-normal.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="724"
+     id="namedview18"
+     showgrid="false"
+     inkscape:zoom="4.72"
+     inkscape:cx="-2.7542373"
+     inkscape:cy="25"
+     inkscape:window-x="0"
+     inkscape:window-y="18"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg16" />
+  <title
+     id="title2">Qt SVG Document</title>
+  <desc
+     id="desc4">Generated with Qt</desc>
+  <defs
+     id="defs6" />
+  <g
+     id="g14"
+     transform="matrix(1.3057961,0,0,1.3057961,-7.6449025,-7.6449025)"
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+    <g
+       stroke-miterlimit="2"
+       transform="matrix(2.5,0,0,2.5,2.5,2.5)"
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g10"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:Ubuntu;fill:#64c456;fill-opacity:1;stroke:#73e263;stroke-width:1.00999999;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;stroke-opacity:1">
+      <circle
+         cx="9"
+         cy="9"
+         r="7"
+         id="circle8" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g12"
+       style="font-style:normal;font-weight:400;font-size:10px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+  </g>
+</svg>
