@@ -36,7 +36,7 @@ Para que o processo de instalação ocorra conforme o esperado, antes você prec
  <b>Onde é utilizado ?</b> <br>
  Utilizado nas notificações pop up e em diálogos como:
  
- > Obtenção de senha de super usuário/administrador (utilizado no arquivo de instalação 👉 [install.sh]('../INSTALL.sh) );
+ > Obtenção de senha de super usuário/administrador (utilizado no arquivo de instalação 👉 [install.sh](../INSTALL.sh) );
  
  
  > Mostra mensagens (pop up) contendo informações sobre o processo de instalação ...
@@ -101,7 +101,7 @@ A instalação é algo bem simples, basta executar o script de instalação ( `i
   2. Via linha de comando (terminal):
 
       ~~~bash
-      chmod +x ./install.sh
+      chmod +x ./INSTALL.sh
       ~~~
 </p>
 
@@ -115,7 +115,7 @@ A instalação é algo bem simples, basta executar o script de instalação ( `i
 
   2. Via linha de comando (terminal)
        ~~~bash
-       ./install.sh
+       ./INSTALL.sh
       ~~~
 
   Após executar o arquivo `install.sh` um diálogo pedindo a senha de super usuário / administrador aparecerá, passe a senha para prosseguir com o processo de instalação.<br><br>
