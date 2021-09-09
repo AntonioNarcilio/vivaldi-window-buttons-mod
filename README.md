@@ -10,7 +10,7 @@
 <p align="center">
   <a href="#dependencies"><img src="https://shields.io/badge/-🚧%20dependencies-ff5500"/></a>
   <a href="#install"><img src="https://shields.io/badge/-🚀%20install-5cff43"/></a>
-  <a href="#how-to-use"><img src="https://shields.io/badge/-🤔%20how%20to%20use-4800d7"/></a>
+  <a href="#howtouse"><img src="https://shields.io/badge/-🤔%20how%20to%20use-4800d7"/></a>
   <a href="#recommendations"><img src="https://shields.io/badge/-👍%20recomendations-aaffff"/></a>
   <a href="#final"><img src="https://shields.io/badge/-🥳%20expected%20result-ffffff"/></a>
   <br>
@@ -153,7 +153,7 @@ The following files will be copied to their respective directories:
 
 
 <br>
-<h2 id="how-to-use"><b>🤔 How to use ?</b></h2>
+<h2 id="howtouse"><b>🤔 How to use ?</b></h2>
 After following all the steps described above, it's time to run the script that will add a new style to Vivaldi window buttons. The only way to do this is through the terminal, using the command described below 👇.
  
 ~~~bash
