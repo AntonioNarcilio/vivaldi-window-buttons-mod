@@ -48,6 +48,7 @@ kdialog --version
 ~~~
  
 > 💡 Se retornar algo diferente `kdialog <numero_da_versao>` é sinal que você não tem tal dependência instalada em sua máquina se for o caso siga para o próximo passo.
+
 Não irei me aprofundar muito nessa questão pois existe "outras formas de se instalar tal" dependência, mais de forma bem sucinta execute no terminal um dos comandos:
  
  ##### Distros Debian
@@ -73,8 +74,7 @@ Não irei me aprofundar muito nessa questão pois existe "outras formas de se in
 <br>
 <h2 id="recommendations"><b>👍 Recomendações</b></h2>
 Caso prefira você pode modificar as configurações de aparência do seu navegador deixando-o assim visualmente mais amigável.
-De forma bem sucinta basta seguir o passo a passo através deste 👉 <a href="https://user-images.githubusercontent.com/49988118/132723948-060bb717-f122-4b9b-b19a-5e41cd00474d.mp4
-">video 🎬</a>. 
+De forma bem sucinta basta seguir o passo a passo através deste 👉 <a href="https://user-images.githubusercontent.com/49988118/132723948-060bb717-f122-4b9b-b19a-5e41cd00474d.mp4">video 🎬</a>. 
  
 ---
  
@@ -175,7 +175,6 @@ A instalação é algo bem simples, basta executar o script de instalação ( `i
  
 <br>
 <h2 id="how-to-use"><b>🤔 Como usar ?</b></h2>
-<h4><b>Via linha de comando</b></h4>
 Após seguir todos os passos descritos acima, chegou então a hora de executar o script que irá adicionar uma nova estilização aos botões da janela do Vivaldi. A única forma de fazer isso é via terminal pelo comando descrito abaixo 👇.
  
 ~~~bash
@@ -187,7 +186,7 @@ sudo vivaldi_buttons_mod
  
 <p align="justify">
  <h4><b>O que esse script faz ?</b></h4>
- Existe um arquivo css disponível no diretório/pasta onde o vivaldi é instalado (geralmente no <i>opt/vivaldi</i>) chamado "common.css" que contém certas estilizações utilizadas no navegador vivaldi, o que esse script irá fazer é adicionar uma nova estilização ao final desse arquivo "common.css", fazendo com que o estilo original seja "sobrescrito" levando assim ao <a href="#final">resultado final esperado</a>.
+ Existe um arquivo CSS disponível no diretório/pasta onde o vivaldi normalmente é instalado (geralmente no <i>opt/vivaldi</i>) chamado "common.css" que contém certas estilizações utilizadas na interface do mesmo, o que esse script irá fazer é adicionar uma nova estilização ao final desse arquivo "common.css", fazendo com que o estilo original seja "sobrescrito" levando assim ao <a href="#final">resultado final esperado</a>.
 </p>
  
 >⚠️ Ao atualizar o navegador para uma versão mais atual, você terá que executar novamente o script, pois a atualização faz com que o arquivo `common.css` seja também atualizado, fazendo assim com que a estilização adicionada anteriormente seja desfeita.
