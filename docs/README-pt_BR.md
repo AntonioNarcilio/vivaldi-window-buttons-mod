@@ -137,11 +137,11 @@ A instalação é algo bem simples, basta executar o script de instalação ( `i
 
 <pre>
 .
-├── <a href='./icons'>icons</a>
-│   ├── <a href='./icons/an-alert.svg'>an-alert.svg</a>
-│   └── <a href='./icons/an-effects.svg'>an-effects.svg</a>
-├── <a href='./buttons_macos.css'>buttons_macos.css</a>
-└── <a href='./vivaldi_buttons_mod'>vivaldi_buttons_mod</a>
+├── <a href='../icons'>icons</a>
+│   ├── <a href='../icons/an-alert.svg'>an-alert.svg</a>
+│   └── <a href='../icons/an-effects.svg'>an-effects.svg</a>
+├── <a href='../buttons_macos.css'>buttons_macos.css</a>
+└── <a href='../vivaldi_buttons_mod'>vivaldi_buttons_mod</a>
 </pre>
 
 
@@ -155,9 +155,9 @@ A instalação é algo bem simples, basta executar o script de instalação ( `i
 
 <pre>
 .
-└── <a href='./icons'>icons</a>
-    ├── <a href='./icons/an-alert.svg'>an-alert.svg</a>
-    └── <a href='./icons/an-effects.svg'>an-effects.svg</a>
+└── <a href='../icons'>icons</a>
+    ├── <a href='../icons/an-alert.svg'>an-alert.svg</a>
+    └── <a href='../icons/an-effects.svg'>an-effects.svg</a>
 </pre>
 
 
@@ -165,14 +165,14 @@ A instalação é algo bem simples, basta executar o script de instalação ( `i
 
 <pre>
 .
-└──  <a href='./vivaldi_buttons_mod'>vivaldi_buttons_mod</a>
+└──  <a href='../vivaldi_buttons_mod'>vivaldi_buttons_mod</a>
 </pre>
 
 <kbd>opt</kbd> > <kbd>vivaldi</kbd> > <kbd>resources</kbd> > <kbd>vivaldi</kbd> > <kbd>style</kbd> 
 
 <pre>
 .
-└──  <a href='./buttons_macos.css'>buttons_macos.css</a>
+└──  <a href='../buttons_macos.css'>buttons_macos.css</a>
 </pre>
 
  </p>
@@ -218,6 +218,6 @@ Esse projeto esta sob a licença [MIT](../LICENSE)
 <br><br>
 
 <p align="center"> 
-criado por <a href="https://linkedin.com/in/antonionarcilio">@antonionarcilio</a>
+criado com ❤️ por <a href="https://linkedin.com/in/antonionarcilio">@antonionarcilio</a>
 </p>
 
