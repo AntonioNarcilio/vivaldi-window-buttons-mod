@@ -1,10 +1,10 @@
 
 
 <p align="center">
-  <img width="33%" src="./.github/icon.png">
-
-  <h3 align="center"><b>Vivaldi windows mod buttons</b></h3>
-  <p align="center">This is a mod exclusively for Linux (tested)</p>
+  <img width="41%" src="./.github/icon-2.png">
+  
+  <h3 align="center"><b>Mod de botões de janela para o Vivaldi</b></h3>
+  <p align="justify">??? <i>"This is a mod exclusively for Linux".</i></p>
 
   <img width="100%" src="./.github/poster.png">
 </p>
@@ -16,16 +16,61 @@
   <a href="#recommendations"><img src="https://shields.io/badge/-👍%20recomendations-aaffff"/></a>
   <a href="#final"><img src="https://shields.io/badge/-🥳%20expected%20outcome-ffffff"/></a>
   <br>
-  <img alt="GitHub repo size" title="GitHub repo size" src="https://img.shields.io/github/repo-size/AntonioNarcilio/vivaldi-macos-buttons?color=50fa7b&labelColor=282a36&" />
+  <img alt="GitHub repo size" title="GitHub repo size" src="https://img.shields.io/github/repo-size/AntonioNarcilio/vivaldi-window-buttons-mod?color=50fa7b&labelColor=282a36&" />
 
   <a href="https://github.com/AntonioNarcilio/vivaldi-macos-buttons/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/AntonioNarcilio/vivaldi-macos-buttons?label=license&color=ff5555&labelColor=282a36" alt="licença"/>
+    <img src="https://img.shields.io/github/license/AntonioNarcilio/vivaldi-window-buttons-mod?label=license&color=ff5555&labelColor=282a36" alt="licença"/>
   </a>
 
-  <img alt="GitHub last commit" title="GitHub last commit" src="https://img.shields.io/github/last-commit/AntonioNarcilio/vivaldi-macos-buttons?&color=50fa7b&labelColor=282a36" /> 
+  <img alt="GitHub last commit" title="GitHub last commit" src="https://img.shields.io/github/last-commit/AntonioNarcilio/vivaldi-window-buttons-mod?&color=50fa7b&labelColor=282a36" /> 
   <br><br>
-  <a href="./docs/README_pt-BR.md">Português Brasileiro 🇧🇷</a>
+  <a href="./docs/README-pt_BR.md">Português Brasileiro 🇧🇷</a>
 </p>
 
 
 ---
+
+<br>
+<h2 id="dependencies"><b>🚧 Dependencies</b></h2>
+
+---
+ 
+<br>
+<h2 id="recommendations"><b>👍 Recommendations</b></h2>
+
+ 
+---
+
+
+<br>
+<h2 id="install"><b>🚀 Install</b></h2>
+
+
+---
+
+<br>
+<h2 id="how-to-use"><b>🤔 How to use ?</b></h2>
+
+
+---
+
+<br>
+<h2 id="final"><b>🥳 Final</b></h2>
+
+
+
+---
+
+<br>
+<h2 id="license"><b>📜 License</b></h2>
+
+Esse projeto esta sob a licença [MIT](./LICENSE)
+
+---
+
+<br><br>
+
+<p align="center"> 
+criado por <a href="https://linkedin.com/in/antonionarcilio">@antonionarcilio</a>
+</p>
+
