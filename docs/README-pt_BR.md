@@ -1,10 +1,10 @@
 
 
 <p align="center">
-  <img width="41%" src="../.github/icon-2.png">
+  <img width="40%" src="../.github/icon-2.png">
   
   <h3 align="center"><b>Mod de botões de janela para o Vivaldi</b></h3>
-  <p align="justify">Este é script shell onde ao executa-lo ele adiciona uma nova estilização aos botões de janela do navegador vivaldi. <i>"Mod exclusivo para Linux".</i></p>
+  <p align="justify">Este é um script shell onde ao executa-lo, ele adiciona uma nova estilização aos botões de janela do navegador vivaldi, deixando-os parecidos com o do macOS. <i>"Mod exclusivo para Linux".</i></p>
 
   <img width="100%" src="../.github/poster.png">
 </p>
