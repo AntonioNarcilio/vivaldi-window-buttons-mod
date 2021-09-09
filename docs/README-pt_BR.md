@@ -32,13 +32,17 @@ Para que o processo de instalação ocorra conforme o esperado, antes você prec
 <h3><a href="https://apps.kde.org/kdialog/"><b>Kdialog</b></a></h3>
 <p align="justify">
 <b>Onde é utilizado ?</b> <br>
+ 
 Utilizado nas notificações pop up e em diálogos como:
 > Obtenção de senha de super usuário/administrador (utilizado no arquivo de instalação 👉 [install.sh](../INSTALL.sh) );
+ 
 > Mostra mensagens (pop up) contendo informações sobre o processo de instalação ...
+ 
 </p>
 <p align="justify">
 <h4><b>Como instalar ?</b></h4>
 Primeiro verifique se você possui o kdialog instalado em sua máquina <i>(se preferir o arquivo "install.sh" faz essa verificação para você)</i>.
+
 ~~~bash
 kdialog --version
 ~~~
