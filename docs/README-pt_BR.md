@@ -36,7 +36,7 @@ Para que o processo de instalação ocorra conforme o esperado, antes você prec
  <b>Onde é utilizado ?</b> <br>
  Utilizado nas notificações pop up e em diálogos como:
  
- > Obtenção de senha de super usuário/administrador (utilizado no arquivo de instalação 👉 [install.sh]('../install.sh) );
+ > Obtenção de senha de super usuário/administrador (utilizado no arquivo de instalação 👉 [install.sh]('../INSTALL.sh) );
  
  
  > Mostra mensagens (pop up) contendo informações sobre o processo de instalação ...
