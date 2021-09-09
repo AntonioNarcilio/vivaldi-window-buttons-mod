@@ -1,5 +1,3 @@
-
-
 <p align="center">
   <img width="41%" src="./.github/icon.png">
   
@@ -27,8 +25,6 @@
   <a href="./docs/README-pt_BR.md">Português Brasileiro 🇧🇷</a>
 </p>
 
-
----
 
 <br>
 <h2 id="dependencies"><b>🚧 Dependencies</b></h2>
@@ -70,13 +66,13 @@ For the installation process to run as expected, you must first have the followi
   > 💡 For more, click on the name `kdialog` (in blue) there at the beginning of the thread; where you will be redirected to the app's official page.
 </p>
 
----
+
 <br>
 <h2 id="recommendations"><b>👍 Recomendations</b></h2>
 If you prefer, you can modify your browser's appearance settings, making it more visually friendly. Just follow the step by step in this 👉 <a href="https://user-images.githubusercontent.com/49988118/132754809-b0ea11a5-79d7-4f26-acac-c9a70b991da3.mp4
 ">video 🎬</a>. 
 
----
+
 
 <br>
 <h2 id="install"><b>🚀 Install</b></h2>
@@ -154,7 +150,7 @@ The following files will be copied to their respective directories:
  
 </p>
 
----
+
 
 <br>
 <h2 id="how-to-use"><b>🤔 How to use ?</b></h2>
@@ -173,7 +169,7 @@ sudo vivaldi_buttons_mod
 </p>
  
 >⚠️ When updating the browser to a newer version, you will have to rerun the script as the update causes the `common.css` file to be also updated, thus causing the previously added styling to be undone.
----
+
 
 <br>
 <h2 id="final"><b>🥳 Expected result</b></h2>
@@ -181,14 +177,14 @@ sudo vivaldi_buttons_mod
 ![gif](./.github/vivaldi-window-buttons.gif)
 
 
----
+
 
 <br>
 <h2 id="license"><b>📜 License</b></h2>
 
 This project is under license [MIT](./LICENSE)
 
----
+
 
 <br><br>
 
