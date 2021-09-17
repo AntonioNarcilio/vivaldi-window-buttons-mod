@@ -69,7 +69,7 @@ For the installation process to run as expected, you must first have the followi
 
 <br>
 <h2 id="recommendations"><b>👍 Recomendations</b></h2>
-If you prefer, you can modify your browser's appearance settings, making it more visually friendly. Just follow the step by step in this 👉 <a href="https://user-images.githubusercontent.com/49988118/132754809-b0ea11a5-79d7-4f26-acac-c9a70b991da3.mp4
+If you prefer, you can modify your browser's appearance settings, making it more visually friendly. Just follow the step by step in this 👉 <a href="https://user-images.githubusercontent.com/49988118/133830224-1f8830f5-bbff-43c5-ab4c-d8cf838a4f1a.mp4
 ">video 🎬</a>. 
 
 
