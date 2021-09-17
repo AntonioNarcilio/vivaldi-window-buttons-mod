@@ -74,7 +74,8 @@ Não irei me aprofundar muito nessa questão pois existe "outras formas de se in
 <br>
 <h2 id="recommendations"><b>👍 Recomendações</b></h2>
 Caso prefira você pode modificar as configurações de aparência do seu navegador deixando-o assim visualmente mais amigável.
-De forma bem sucinta basta seguir o passo a passo através deste 👉 <a href="https://user-images.githubusercontent.com/49988118/132723948-060bb717-f122-4b9b-b19a-5e41cd00474d.mp4">video 🎬</a>. 
+De forma bem sucinta basta seguir o passo a passo através deste 👉 <a href="https://user-images.githubusercontent.com/49988118/133830224-1f8830f5-bbff-43c5-ab4c-d8cf838a4f1a.mp4
+">video 🎬</a>. 
  
 ---
  
