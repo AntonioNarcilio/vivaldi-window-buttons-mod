@@ -196,7 +196,7 @@ function verifyDependencies() {
       imagemagickVerify;
       pngquantVerify;
     else
-      echo -e "Kdialog is required!\nRun the command:\n\e[1;33msudo \"apt/pacman -S\" ffmpeg\e[0m";
+      echo -e "Kdialog is required!\nRun the command:\n\e[1;33msudo \"apt/pacman -S\" Kdialog\e[0m";
       exit 0 > /dev/null 2>&1;
     fi;
   }
